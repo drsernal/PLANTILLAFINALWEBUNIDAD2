@@ -65,7 +65,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: #006680;
+	background: black;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
@@ -102,7 +102,7 @@ margin-bottom: 20px;
 }
 
 p{
-    color: #006680;
+    color: black;
 	font-size: 12px;
 	font-weight: bolder;
 	line-height: 24px;
