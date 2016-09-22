@@ -21,7 +21,7 @@ background-size: cover;
 
 h1{
 font-family: 'Angsana New', cursive;
-color: #B3B3B3;
+color: white;
 margin-left: 10px;
 font-size: 60px;
 text-align: center; 
@@ -29,7 +29,7 @@ text-align: center;
 
 h2{
 font-family: 'Angsana New', cursive;
-color: #B3B3B3;
+color: white;
 margin-left: 10px;
 font-size: 20px;
 text-align: left; 
@@ -37,7 +37,7 @@ text-align: left;
 
 h3{
 font-family: 'Angsana New', cursive;;
-color: #B3B3B3;
+color: white;
 font-size: 30px;
 text-align: center; 
 }
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: white;
+	background: #B3B3B3;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: white;
+	background: #B3B3B3;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
