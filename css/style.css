@@ -59,7 +59,7 @@ border-radius: 10px;
 }
 ul{
 margin: auto;
-padding-top: 4px;
+padding-top: 50px;
 }
 
 li{
@@ -69,7 +69,7 @@ li{
 	background: black;
 	margin: 3px;
 	border-radius: 10px;
-	box-shadow:  10px white inset; 
+	box-shadow: 0 0 10px white inset; 
 
 }
 
